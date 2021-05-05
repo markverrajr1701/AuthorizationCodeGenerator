@@ -46,6 +46,7 @@ public class Passwords
         GREEK_LETTERS.add("Chi");
         GREEK_LETTERS.add("Psi");
         GREEK_LETTERS.add("Omega");
+        GREEK_LETTERS.add("Tango");
         GREEK_LETTERS.trimToSize();
         // firstLetter = "Alpha";
         // nums = 0;
